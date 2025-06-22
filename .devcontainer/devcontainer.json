@@ -1,0 +1,9 @@
+{
+  "name": "ROS2 Ubuntu 22.04",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {},
+  "extensions": [],
+  "remoteUser": "vscode"
+}
